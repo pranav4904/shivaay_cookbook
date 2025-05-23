@@ -13,8 +13,8 @@ Before diving into the cookbook:
 
 Python : `pip install openai`
 
-Node.js : npm install openai
+Node.js : `npm install openai`
 
-Go : go get github.com/sashabaranov/go-openai
+Go : `go get github.com/sashabaranov/go-openai`
 
 
