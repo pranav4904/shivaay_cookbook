@@ -1,2 +1,2 @@
 # Shivaay Cookbook
-Practical recipes for using, customizing, and deploying the Shivaay AI chatbot
+Shivaay API provides a seamless way to integrate advanced AI capabilities into your applications.
