@@ -3,6 +3,8 @@ Welcome to the Shivaay AI Chatbot Cookbook — a collection of practical, copy-p
 
 Whether you're building educational tools, customer support bots, or creative assistants, this cookbook gives you hands-on examples and best practices tailored for Shivaay AI , an open-source, multilingual chatbot built with India in mind.
 
+[Try Shivaay AI Online](https://shivaay.futurixai.com)
+
 # Prerequisites 
 
 First, install the OpenAI library for your preferred language using the package manager.
