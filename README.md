@@ -19,8 +19,10 @@ Go : `go get github.com/sashabaranov/go-openai`
 
 ### ✅ 2. Get Your API Key 
 
-Visit [Shivaay Playground](https://shivaay.futurixai.com/playground) to get your API key.  
-Copy API Key and store it securely.  
+Visit [Shivaay Playground](https://shivaay.futurixai.com/playground) to get your API key.
+
+Copy API Key and store it securely.
+
 .env file :  
 `SHIVAAY_API_KEY=your_api_key_here`
 
