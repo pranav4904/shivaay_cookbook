@@ -12,7 +12,9 @@ Before diving into the cookbook:
 ### ✅ 1. Install OpenAI-Compatible Library :
 
 Python : pip install openai
+
 Node.js : npm install openai
+
 Go : go get github.com/sashabaranov/go-openai
 
 
