@@ -5,6 +5,7 @@ Whether you're building educational tools, customer support bots, or creative as
 
 # Prerequisites 
 
-First, install the OpenAI library for your preferred language using the package manager
+First, install the OpenAI library for your preferred language using the package manager.
+
 To use the Shivaay API, you'll need to obtain an API key from https://shivaay.futurixai.com/playground. Store this key securely in your environment variables.
 
