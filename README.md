@@ -7,14 +7,21 @@ Whether you're building educational tools, customer support bots, or creative as
 
 # 🔧 Prerequisites 
 
-Before diving into the cookbook:
+Before diving into the cookbook :
 
-### ✅ 1. Install OpenAI-Compatible Library :
+### ✅ 1. Install OpenAI-Compatible Library 
 
 Python : `pip install openai`
 
 Node.js : `npm install openai`
 
 Go : `go get github.com/sashabaranov/go-openai`
+
+### ✅ 2. Get Your API Key 
+
+Visit [Shivaay Playground](https://shivaay.futurixai.com/playground) to get your API key.  
+Copy API Key and store it securely.  
+.env file :  
+`SHIVAAY_API_KEY=your_api_key_here`
 
 
