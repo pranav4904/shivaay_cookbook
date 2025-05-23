@@ -1,13 +1,13 @@
-# Shivaay Cookbook
+# 📘 Shivaay Cookbook
 Welcome to the Shivaay AI Chatbot Cookbook — a collection of practical, copy-paste-ready recipes designed to help developers, educators, entrepreneurs, and researchers make the most out of the Shivaay AI chatbot .
 
 Whether you're building educational tools, customer support bots, or creative assistants, this cookbook gives you hands-on examples and best practices tailored for Shivaay AI , an open-source, multilingual chatbot built with India in mind.
 
-[Try Shivaay AI Online](https://shivaay.futurixai.com)
+🔗 [Try Shivaay AI Online](https://shivaay.futurixai.com)
 
-# Prerequisites 
+# 🔧 Prerequisites 
 
-First, install the OpenAI library for your preferred language using the package manager.
+Before diving into the cookbook:
 
-To use the Shivaay API, you'll need to obtain an API key from https://shivaay.futurixai.com/playground. Store this key securely in your environment variables.
+## ✅ 1. Install OpenAI-Compatible Library
 
