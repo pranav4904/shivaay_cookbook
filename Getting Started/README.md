@@ -10,7 +10,7 @@ Before you begin, ensure you have:
 
 - Python 3.7 or higher
 - Internet access
-- An API key from [Shivaay AI](https://shivaay.futurixai.com)
+- An API key from [Shivaay AI](https://shivaay.futurixai.com/playground)
 - `requests` Python library
 
 Install the required package:
