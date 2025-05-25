@@ -5,25 +5,16 @@ Whether you're building educational tools, customer support bots, or creative as
 
 🔗 [Try Shivaay AI Online](https://shivaay.futurixai.com)
 
-# 🔧 Prerequisites 
+## 🚀 What is Shivaay AI?
 
-Before diving into the cookbook :
+[Shivaay AI](https://shivaay.futurixai.com) is a powerful open-source chatbot optimized for Indian languages and contexts. It can be used for:
 
-### ✅ 1. Install OpenAI-Compatible Library 
+- Conversational AI applications
+- Educational assistants
+- Customer support bots
+- Domain-specific question answering
+- And much more!
 
-Python : `pip install openai`
-
-Node.js : `npm install openai`
-
-Go : `go get github.com/sashabaranov/go-openai`
-
-### ✅ 2. Get Your API Key 
-
-Visit [Shivaay Playground](https://shivaay.futurixai.com/playground) to get your API key.
-
-Copy API Key and store it securely.
-
-.env file :  
-`SHIVAAY_API_KEY=your_api_key_here`
+---
 
 
