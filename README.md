@@ -34,3 +34,14 @@ This repository contains a set of folders. Each folder includes:
 | `evaluation/`       | Evaluate model performance, latency, and quality |
 
 ---
+
+## 📦 Requirements
+
+- Python 3.7 or higher
+- Jupyter Notebook
+- An API key from [Shivaay AI](https://shivaay.futurixai.com)
+
+Install dependencies:
+
+```bash
+pip install requests
