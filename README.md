@@ -1,8 +1,6 @@
 # 📘 Shivaay Cookbook
 
-Welcome to the Shivaay AI Chatbot Cookbook — a collection of practical, copy-paste-ready recipes designed to help developers, educators, entrepreneurs, and researchers make the most out of the Shivaay AI chatbot.
-
-Whether you're building educational tools, customer support bots, or creative assistants, this cookbook gives you hands-on examples and best practices tailored for Shivaay AI, an open-source, multilingual chatbot built with India in mind.
+Welcome to the **Shivaay AI Chatbot Cookbook** — your hands-on guide to building with [Shivaay AI](https://shivaay.futurixai.com), an open-source, multilingual chatbot built for India. Whether you're a developer, educator, entrepreneur, or researcher, this cookbook offers ready-to-run notebooks and recipes for building real-world AI tools.
 
 🔗 [Try Shivaay AI Online](https://shivaay.futurixai.com)
 
@@ -10,38 +8,50 @@ Whether you're building educational tools, customer support bots, or creative as
 
 ## 🚀 What is Shivaay AI?
 
-[Shivaay AI](https://shivaay.futurixai.com) is a powerful open-source chatbot optimized for Indian languages and contexts. It can be used for:
+[Shivaay AI](https://shivaay.futurixai.com) is a powerful, open-source chatbot framework optimized for Indian languages and regional use cases. It's ideal for:
 
-- Conversational AI applications  
-- Educational assistants  
-- Customer support bots  
-- Domain-specific question answering  
-- And much more!
+- Conversational apps in local languages  
+- Educational chatbots  
+- Domain-specific Q&A systems  
+- Customer support workflows  
+- Retrieval-based or Agent-based assistants
 
 ---
 
 ## 📂 Cookbook Structure
 
-This repository contains a set of folders. Each folder includes:
+Each folder includes:
+- A `README.md` to explain the concept  
+- A Jupyter Notebook (`.ipynb`) with runnable examples
 
-- A `README.md` explaining the topic  
-- A `.ipynb` Jupyter notebook with live code examples
+| Folder                    | Description                                                       |
+|---------------------------|-------------------------------------------------------------------|
+| `getting_started/`        | Set up your environment and make your first API call              |
+| `prompt_engineering/`     | Design better prompts to improve chatbot responses                |
+| `customization/`          | Customize Shivaay AI for your domain or language                  |
+| `rag_with_llamaindex/`    | Retrieval-Augmented Generation using **LlamaIndex**               |
+| `rag_with_langchain/`     | Retrieval-Augmented Generation using **LangChain**                |
+| `agentic_workflows/`      | Use **agent-based reasoning and planning** with Shivaay + LangChain|
 
-| Folder               | Description                                        |
-|----------------------|----------------------------------------------------|
-| `getting_started/`   | Set up the environment and make your first API call |
-| `prompt_engineering/`| Master prompt design for better answers             |
-| `customization/`     | Fine-tune Shivaay AI to suit your unique domain     |
+---
+
+## 🧠 Key Technologies
+
+- **Shivaay AI API**  
+- **LangChain**  
+- **LlamaIndex**  
+- **Vector Stores (FAISS, Chroma)**  
+- **Tools & Agents for Task Planning**
 
 ---
 
 ## 📦 Requirements
 
-- Python 3.7 or higher  
+- Python 3.7+  
 - Jupyter Notebook  
-- An API key from [Shivaay AI](https://shivaay.futurixai.com)
+- API key from [Shivaay AI](https://shivaay.futurixai.com)
 
 ### Install Dependencies
 
 ```bash
-pip install requests
+pip install requests llama-index langchain openai faiss-cpu
