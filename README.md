@@ -20,28 +20,17 @@ Welcome to the **Shivaay AI Chatbot Cookbook** — your hands-on guide to buildi
 
 ## 📂 Cookbook Structure
 
-Each folder includes:
+Each folder includes:  
 - A `README.md` to explain the concept  
 - A Jupyter Notebook (`.ipynb`) with runnable examples
 
-| Folder                    | Description                                                       |
-|---------------------------|-------------------------------------------------------------------|
-| `getting_started/`        | Set up your environment and make your first API call              |
-| `prompt_engineering/`     | Design better prompts to improve chatbot responses                |
-| `customization/`          | Customize Shivaay AI for your domain or language                  |
-| `rag_with_llamaindex/`    | Retrieval-Augmented Generation using **LlamaIndex**               |
-| `rag_with_langchain/`     | Retrieval-Augmented Generation using **LangChain**                |
-| `agentic_workflows/`      | Use **agent-based reasoning and planning** with Shivaay + LangChain|
-
----
-
-## 🧠 Key Technologies
-
-- **Shivaay AI API**  
-- **LangChain**  
-- **LlamaIndex**  
-- **Vector Stores (FAISS, Chroma)**  
-- **Tools & Agents for Task Planning**
+| Folder           | Description                                                      |
+|------------------|------------------------------------------------------------------|
+| `getting_started/`  | Set up your environment and make your first API call             |
+| `prompt_engineering/` | Design better prompts to improve chatbot responses              |
+| `customization/`    | Customize Shivaay AI for your domain or language                 |
+| `RAG/`              | Retrieval-Augmented Generation examples and implementations      |
+| `Agentic RAG/`      | Agent-based reasoning and planning workflows with Shivaay        |
 
 ---
 
@@ -51,7 +40,3 @@ Each folder includes:
 - Jupyter Notebook  
 - API key from [Shivaay AI](https://shivaay.futurixai.com)
 
-### Install Dependencies
-
-```bash
-pip install requests llama-index langchain openai faiss-cpu
