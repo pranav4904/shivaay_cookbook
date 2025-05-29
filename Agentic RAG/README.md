@@ -7,10 +7,10 @@ This project demonstrates an **Agentic RAG** approach—where an AI agent **plan
 ## 🧩 What Is Agentic RAG?
 
 Agentic RAG goes beyond single-prompt RAG by simulating an autonomous agent that:
-1. **Plans** how to answer the query.
-2. **Generates sub-queries** for each step.
-3. **Retrieves data** or simulates external knowledge.
-4. **Synthesizes an answer** from all gathered context.
+1. **Plans** how to answer the query by breaking it into subtasks.
+2. **Generates sub-queries** for each subtask to perform targeted retrieval.
+3. **Retrieves relevant documents** from a vector database built on indexed knowledge.
+4. **Synthesizes a final answer** by reasoning over the retrieved context.
 
 This multi-step reasoning pipeline is ideal for answering **complex, multi-faceted questions**.
 
@@ -19,7 +19,6 @@ This multi-step reasoning pipeline is ideal for answering **complex, multi-facet
 ## 🗂 File Overview
 
 - `agentic_rag.py`: Main script demonstrating the planning → search → retrieval → reasoning pipeline.
-- No dependencies other than `requests`.
 
 ---
 
